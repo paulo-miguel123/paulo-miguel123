@@ -1,6 +1,6 @@
 # [paulo miguel] <img src="https://media.tenor.com/v_qPOJw06Q0AAAAM/flexing-flex.gif" width="50px">
 
-Eu sou <strong>paulo miguel </strong>, <strong>tenho 18 anos , gosto de treinar </strong>  💪
+Eu sou <strong>paulo miguel </strong>, <strong>tenho 18 anos </strong>  
 
 - 🚀 Atualmente estou aprendendo: <strong>ADS </strong> 
 - 💬 meus hobbies são: <strong>treinar e cozinhar </strong>
