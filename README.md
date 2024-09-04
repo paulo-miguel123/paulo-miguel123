@@ -2,7 +2,7 @@
 
 Eu sou <strong>paulo miguel </strong>, <strong>tenho 18 anos , gosto de treinar </strong>  💪
 
-- 🚀 Atualmente estou aprendendo: <strong>java script,python </strong> 
+- 🚀 Atualmente estou aprendendo: <strong>ADS </strong> 
 - 💬 meus hobbies são: <strong>treinar e cozinhar </strong>
 - 📣 Nós podemos falar em: <strong>português e inglês</strong>
 
